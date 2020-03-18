@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=UnitTwoQOne
+comment0.text=\n\ Write\ a\ description\ of\ class\ UnitTwoQOne\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=UnitTwoQOne()
+comment2.params=setColor
+comment2.target=UnitTwoQOne(java.lang.String)
+numComments=3
