@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Unit5BQThree
+comment0.text=\n\ Write\ a\ description\ of\ class\ Unit5BQThree\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newOne
+comment1.target=Unit5BQThree(int)
+comment2.params=
+comment2.target=int\ getOne()
+comment3.params=other
+comment3.target=boolean\ isGreater(Unit5BQThree)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

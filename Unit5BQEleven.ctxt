@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Unit5BQEleven
+comment0.text=\n\ Write\ a\ description\ of\ class\ Unit5BQEleven\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=nm\ ft\ in
+comment1.target=Unit5BQEleven(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ heightInInches()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=other
+comment4.target=java.lang.String\ compareHeights(Unit5BQEleven)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
